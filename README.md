@@ -16,21 +16,6 @@ Powerful (Zoom, Rotation, Multi-Source), customizable (Shape, Limits, Style), op
 
 ![Crop](https://raw.githubusercontent.com/ArthurHub/Android-Image-Cropper/master/art/demo.gif)
 
-## Usage
-
-For a working implementation, please have a look at the [Sample Project](https://github.com/ArthurHub/Android-Image-Cropper/tree/master/sample).
-
-See the [GitHub Wiki](https://github.com/ArthurHub/Android-Image-Cropper/wiki) for more info.
-
-### Include the Library
-
-Add the following dependency to your `build.gradle` file:
-
-```groovy
-dependencies {
-    implementation ("com.github.ictfoysal:Android-Image-Cropper-byFt:2.9")
-}
-
 ## Features
 
 - **Built-in CropImageActivity**: A ready-to-use activity for cropping images.
@@ -52,4 +37,19 @@ dependencies {
 - **Cropping Window Style**: Customize the border line, border corner, and guidelines thickness and color.
 - **Background Color**: Set a custom background color for the cropping area.
 - **And More**: Additional customization options to tailor the cropping experience to your needs.
+
+## Usage
+
+For a working implementation, please have a look at the [Sample Project](https://github.com/ArthurHub/Android-Image-Cropper/tree/master/sample).
+
+See the [GitHub Wiki](https://github.com/ArthurHub/Android-Image-Cropper/wiki) for more info.
+
+### Include the Library
+
+Add the following dependency to your `build.gradle` file:
+
+```groovy
+dependencies {
+    implementation ("com.github.ictfoysal:Android-Image-Cropper-byFt:2.9")
+}
 
