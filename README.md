@@ -42,7 +42,7 @@ Powerful (Zoom, Rotation, Multi-Source), customizable (Shape, Limits, Style), op
 
 For a working implementation, please have a look at the [Sample Project](https://github.com/ArthurHub/Android-Image-Cropper/tree/master/sample).
 
-See the [GitHub Wiki](https://github.com/ArthurHub/Android-Image-Cropper/wiki) for more info.
+See the [GitHub yt](https://www.youtube.com/@IctFoysal) for more info.
 
 ### Include the Library
 
